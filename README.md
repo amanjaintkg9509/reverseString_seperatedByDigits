@@ -1,8 +1,8 @@
 # LeetCode Problem reverseString_seperatedByDigits
 
 
- # Given a string that contains words seperated by digits(0-9). Reverse words in place
- # Eg: asd1fa -> dsa1af
+  Given a string that contains words seperated by digits(0-9). Reverse words in place
+  Eg: asd1fa -> dsa1af
  
  # Pseudo code :-
  * 1. get string and check number or not using parseInt.
